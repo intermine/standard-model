@@ -27,7 +27,7 @@ Synonym/xref
 
 ## Proteins
 
-## SNPs
+## Variation
 
 ## Disease
 
